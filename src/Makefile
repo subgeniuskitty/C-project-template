@@ -20,4 +20,4 @@ aout:
 	$(CC) $(CC_FLAGS) -o a.out main.c
 
 clean:
-	@rm -f a.out
+	@rm -f a.out a.out.core
