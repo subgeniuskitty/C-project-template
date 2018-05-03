@@ -1,6 +1,6 @@
 /*
  * © 2018 Aaron Taylor <ataylor at subgeniuskitty dot com>
- * See LICENSE file for copyright and license details.
+ * See LICENSE.txt file for copyright and license details.
  */
 
 #include <stdio.h>
